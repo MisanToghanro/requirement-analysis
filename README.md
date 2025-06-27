@@ -99,7 +99,7 @@ Use case diagrams provide a visual representation of how users interact with the
 
 ### Diagram:
 
-![Use Case Diagram](alx-booking-uc.png)
+![Use Case Diagram](https://chatgpt.com/s/m_685e88791a7c81918a7f8074aa1726bd)
 
 ---
 
